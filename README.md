@@ -4,8 +4,11 @@ Information gathered in this repository was gathered from an article titled "Com
 ## The Evolution of Tumors
 
 ## Current Challenges
+### Reconstruction of Genetic History
+### Interpretation of Mutations
+### Predictive Modeling
 
-## The Role Computer Scientists Can Play
+## The Bridge Between Computer Science and Cancer Evolution
 
 # References
 Beerenwinkel N, 
