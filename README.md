@@ -15,9 +15,9 @@ It is believed that these mutations are ongoing over a person's life rather than
 
 ### Reconstruction of Genetic History
 
-Doctors have been able to take samples of tumors to be genetically analyzed for some time now. With this technique we can study the diversity and genetics within a tumor. This however, is not enough. A single sample leaves many gaps of understanding that may be critical to treating a patient. Now we have developed more methods of sequencing genomes that we can take more samples from many different locations to get a more clear picture of the evolutionary history of cancer. The main difficulty with these new methods is that they generate incredible amounts of data.
+Doctors have been able to take samples of tumors to be genetically analyzed for some time now, allowing scientists and doctors to study the diversity and genetics within a tumor. This however is not enough, a single sample leaves so many gaps in understanding that can make treatment difficult. Now that scientists have developed more methods of sequencing genomes they can take more samples from many different locations which gives clearer picture of the evolutionary history of cancer. The main difficulty with these new methods is that they generate incredible amounts of data.
 
-Until now scientists have been unable to realistically process these large amounts of data. Computational methods are becoming more important as time goes on because they are the only way that all of this data can be interpreted.
+Until recently scientists have been unable to realistically process these large amounts of data. Computational methods are becoming more important as time goes on because they are the only way that all of this data can be interpreted. Through a better understanding of the evolutionary history of cancer cells we can better predict when it may occur.
 
 ### Interpretation of Mutations
 
