@@ -2,9 +2,9 @@
 
 ![](dna.jpg)
 
-This is the unofficial companion repository to the 2016 paper titled "Computational Cancer Biology: An Evolutionary Perspective" by Beerenwinkel et al. 
+This is an unofficial companion repository to the 2016 paper titled "Computational Cancer Biology: An Evolutionary Perspective" by Beerenwinkel et al. 
 
-This repository is intended to show computer scientists how computational methods can be applied to other fields by using this paper as a starting point to outline the current problems being faced in the field of [computational cancer biology](https://en.wikipedia.org/wiki/Computational_biology#Cancer_computational_biology), especially how it relates to evolution.
+This repository is intended to show computer scientists how computational methods can be applied to other fields - using this paper as a starting point to outline the current problems being faced in the field of [computational cancer biology](https://en.wikipedia.org/wiki/Computational_biology#Cancer_computational_biology), especially how it relates to evolution.
 
 ## The Evolution of Tumors
 
