@@ -1,5 +1,7 @@
 # Computational-Cancer-Biology
 
+![](dna.jpg)
+
 This is the unofficial companion repository to the 2016 paper titled "Computational Cancer Biology: An Evolutionary Perspective" by Beerenwinkel et al. 
 
 This repository is intended to show computer scientists how computational methods can be applied to other fields by using this paper as a starting point to outline the current problems being faced in the field of [computational cancer biology](https://en.wikipedia.org/wiki/Computational_biology#Cancer_computational_biology), especially how it relates to evolution.
@@ -42,3 +44,5 @@ But why should computer scientists care? I believe that this is one of the great
 Beerenwinkel N, Greenman CD, Langergren J (2016) Computational Cancer Biology: An Evolutionary Perspective. PLoS Comput Biol 12(2): e1004717.doi:10.1371/journal.pcbi.1004717.
 
 <sup>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</sup>
+
+Images used in this repository come from the above paper and [Pixabay.com](https://pixabay.com/service/license/)
