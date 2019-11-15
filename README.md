@@ -2,6 +2,8 @@
 
 This is the unofficial companion repository to the 2016 paper titled "Computational Cancer Biology: An Evolutionary Perspective" by Beerenwinkel et al. 
 
+This repository is intended to show computer scientists how computational methods can be applied to other fields by using this paper as a starting point to outline the current problems being faced in the field of [computational cancer biology](https://en.wikipedia.org/wiki/Computational_biology#Cancer_computational_biology), especially how it relates to evolution.
+
 ## The Evolution of Tumors
 
 ![Visualization of cancer evolution](neoplastic_transformation.jpg)
@@ -20,6 +22,12 @@ Doctors have been able to take samples of tumors to be genetically analyzed for 
 Until recently scientists have been unable to realistically process these large amounts of data. Computational methods are becoming more important as time goes on because they are the only way that all of this data can be interpreted. Through a better understanding of the evolutionary history of cancer cells we can better predict when it may occur.
 
 ### Interpretation of Mutations
+
+New sequencing methods are especially important in that they can better detect "driver mutations", or mutations that can cause a cell to become cancerous. We now have the ability to make predictions of how populations of cells will evolve. It is interesting to note, however, that when analyzing cancer genomes that the pathway (evolutionary history) is more important than the contents of the genes themselves. This makes sense because successful phenotypes are successful only because of the environment they are in. There is no inherent "cancer" gene that can be detected. We *can* analyze the history of a population of cancer cells and compare it to current data we have to make predictions based on our current understanding.
+
+We are able to sample cells to determine the current range of genetic diversity found in a population. As we can see in the image above, knowledge of this makes it possible, in theory, to paint a picture of the evolutionary history of the population. This proves to be a difficult task due to sampling noise and imperfections within the data. 
+
+This is where computational methods, especially machine learning, comes in. One method used to make sense of all of this data is [hierarchical clustering](https://en.wikipedia.org/wiki/Hierarchical_clustering). This method of clustering can be used to group similar genotypes into a hierarchy in order to reconstruct a phylogenetic tree.
 
 ### Predictive Modeling
 
