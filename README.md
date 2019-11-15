@@ -1,4 +1,4 @@
-# Computational Cancer Biology and How it Relates to Computer Science
+# Computational Cancer Biology
 
 ![](dna.jpg)
 
