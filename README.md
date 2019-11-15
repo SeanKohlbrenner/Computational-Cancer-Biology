@@ -49,7 +49,7 @@ By combining the above methods we can better create models that accurately predi
 - [Wright-Fisher Model](https://stephens999.github.io/fiveMinuteStats/wright_fisher_model.html)
 - [Moran Process](https://en.wikipedia.org/wiki/Moran_process)
 
-As you can see in order to solve some of the many problems faced in cancer research, a joint effort between computer scientists and cancer biologists is requred. By combining knowledge of evolution and cancer cell biology with machine learning and other other computational methods many of these roadblocks become less daunting to face.
+As you can see, in order to solve some of the many problems faced in cancer research, a joint effort between computer scientists and cancer biologists is requred. By combining knowledge of biology (evolution and cancer cell biology) with computer science (machine learning and other computational methods) many of these roadblocks become less daunting to face.
 
 But why should computer scientists care? I believe that this is one of the greatest opportunities within computer science available to us today. Many of us began studying computer science because of a combined passion for technology and biology (or other field) and are amazed at the work that can be done when we use computers to solve problems associated with these other fields. It is a great opportunity to see the broad impact out expertise can have on the world.
 
