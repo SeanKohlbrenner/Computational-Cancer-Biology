@@ -9,17 +9,23 @@ This is the unofficial companion repository to the 2016 paper titled "Computatio
 
 Cancer, at its core, is an evolutionary process. As shown in the figure above, tumors are made up of many subpopulations of body cells that have mutated to the point where they no longer act or die like a normal cell would: this is how a cancer cell is created. That is all cancer cells are: mutated descendents of your own cells. Because of this we can look at cancer as an evolutionary process which may allow us to exploit its development to try to prevent or cure it.
 
-It is believed that these mutations happen every day rather than all at once before a tumor is formed. Researchers have even been able to observe healthy cells carrying the same mutations found in cancerous ones. This is a very gradual process and we cannot simply look for mutations in cells to correctly diagnose and treat cancer. 
+It is believed that these mutations are ongoing over a person's life rather than occuring all at once when a tumor is formed. Researchers have even been able to observe healthy cells carrying the same mutations found in cancerous ones. This is a very gradual process and we cannot simply look for mutations in cells to correctly diagnose and treat cancer. Because
   
 ## Current Challenges
 
 ### Reconstruction of Genetic History
+
+Doctors have been able to take samples of tumors to be genetically analyzed for some time now. With this technique we can study the diversity and genetics within a tumor. This however, is not enough. A single sample leaves many gaps of understanding that may be critical to treating a patient. Now we have developed more methods of sequencing genomes that we can take more samples from many different locations to get a more clear picture of the evolutionary history of cancer. The main difficulty with these new methods is that they generate incredible amounts of data.
+
+Until now scientists have been unable to realistically process these large amounts of data. Computational methods are becoming more important as time goes on because they are the only way that all of this data can be interpreted.
 
 ### Interpretation of Mutations
 
 ### Predictive Modeling
 
 ## The Bridge Between Computer Science and Cancer Evolution
+
+As you can see
 
 The field of computational cancer biology combines the expertise of computer scientists and cancer researchers to solve, what Beerenwinkel et al. describes is, "one of the biggest biomedical research challenges of our time" (2016). 
 
