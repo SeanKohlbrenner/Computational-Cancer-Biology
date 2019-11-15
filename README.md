@@ -1,12 +1,15 @@
 # Computational-Cancer-Biology
-test<sub>test<sub>
+
 ## The Evolution of Tumors
 
 ![Visualization of cancer evolution](neoplastic_transformation.jpg)
-
+> "**Schematic representation of neoplastic transformation.**(A) The left-hand side represents regular homeostatic tissue. The middle regionrepresents a mutation undergoing a selective sweep across a population of phenotypically normal tissue. The right-hand side indicates a period of clonalgrowth, during which different mutations combine across subclones. (B) A phylogenetic tree on the right mirrors the subclonal structure in (A); the circlesrepresent mutations, and their sizes indicate the size of the corresponding subpopulation. The green subclone contains a branching process of mutationaccumulation, indicating the continual stochastic processes that underlie the approximation that is a clonal evolution tree." <sub>Beerenwinkel et al. (2016)<sup>
 ## Current Challenges
+
 ### Reconstruction of Genetic History
+
 ### Interpretation of Mutations
+
 ### Predictive Modeling
 
 ## The Bridge Between Computer Science and Cancer Evolution
