@@ -1,10 +1,10 @@
 # Computational-Cancer-Biology
 
-![](dna.jpg)
-
 This is the unofficial companion repository to the 2016 paper titled "Computational Cancer Biology: An Evolutionary Perspective" by Beerenwinkel et al. 
 
 This repository is intended to show computer scientists how computational methods can be applied to other fields by using this paper as a starting point to outline the current problems being faced in the field of [computational cancer biology](https://en.wikipedia.org/wiki/Computational_biology#Cancer_computational_biology), especially how it relates to evolution.
+
+![](dna.jpg)
 
 ## The Evolution of Tumors
 
@@ -33,11 +33,27 @@ This is where computational methods, especially machine learning, comes in. One 
 
 ### Predictive Modeling
 
+By combining the above methods we can better create models that accurately predict the population genetics of cancer. Two main methods are common now: using common population genetics models (such as the [Wright-Fisher Model](https://stephens999.github.io/fiveMinuteStats/wright_fisher_model.html) and the [Moran Process](https://en.wikipedia.org/wiki/Moran_process)) to make predictions on the individual level, and using [cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton) to simulate entire systems (populations) to study its progression. These two methods open the door to being able to simulate and predict how tumors form, progress, and develop resistance to drugs. More specifically, this could allow us to create software that can predict cancer development and how well treatments will work.
+
 ## The Bridge Between Computer Science and Cancer Evolution
 
 As you can see in order to solve some of the many problems faced in cancer research, a joint effort between computer scientists and cancer biologists is requred. By combining knowledge of evolution and cancer cell biology with machine learning and other other computational methods many of these roadblocks become less daunting to face.
 
+### Here is an overview of some of the computational methods used:
+
+- [Hierarchical Clustering](https://en.wikipedia.org/wiki/Hierarchical_clustering)
+- [Cellular Automata](https://en.wikipedia.org/wiki/Cellular_automaton)
+- [Bayesian Inference](https://seeing-theory.brown.edu/bayesian-inference/index.html)
+- [Mathematical Optimization](https://en.wikipedia.org/wiki/Mathematical_optimization)
+- [Heuristic Search](https://users.cs.cf.ac.uk/Dave.Marshall/AI2/node23.html)
+- [Cancer Evolution](https://en.wikipedia.org/wiki/Somatic_evolution_in_cancer)
+- [Cacner Biology](https://training.seer.cancer.gov/disease/)
+- [Wright-Fisher Model](https://stephens999.github.io/fiveMinuteStats/wright_fisher_model.html)
+- [Moran Process](https://en.wikipedia.org/wiki/Moran_process)
+
 But why should computer scientists care? I believe that this is one of the greatest opportunities within computer science available to us today. Many of us began studying computer science because of a combined passion for technology and biology (or other field) and are amazed at the work that can be done when we use computers to solve problems associated with these other fields. It is a great opportunity to see the broad impact out expertise can have on the world.
+
+---
 
 # References
 
