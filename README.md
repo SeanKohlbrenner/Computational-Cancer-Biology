@@ -2,6 +2,8 @@
 
 ## The Evolution of Tumors
 
+![Visualization of cancer evolution](neoplastic_transformation.jpg)
+
 ## Current Challenges
 ### Reconstruction of Genetic History
 ### Interpretation of Mutations
