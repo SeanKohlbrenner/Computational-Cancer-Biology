@@ -45,7 +45,7 @@ By combining the above methods we can better create models that accurately predi
 - [Mathematical Optimization](https://en.wikipedia.org/wiki/Mathematical_optimization)
 - [Heuristic Search](https://users.cs.cf.ac.uk/Dave.Marshall/AI2/node23.html)
 - [Cancer Evolution](https://en.wikipedia.org/wiki/Somatic_evolution_in_cancer)
-- [Cacner Biology](https://training.seer.cancer.gov/disease/)
+- [Cancer Biology](https://training.seer.cancer.gov/disease/)
 - [Wright-Fisher Model](https://stephens999.github.io/fiveMinuteStats/wright_fisher_model.html)
 - [Moran Process](https://en.wikipedia.org/wiki/Moran_process)
 
